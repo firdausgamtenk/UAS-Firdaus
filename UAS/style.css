@@ -1,0 +1,25 @@
+.card {
+    margin-top: 150px;
+    color: white;
+}
+
+.login {
+    background-color: rgb(170, 29, 206);
+    height: 100vh;
+    overflow: hidden;
+}
+.bg-purple2{
+    background-color: rgb(78, 21, 92);
+}
+
+
+
+.iya{
+    background-color: blue;
+    font-weight: 700;
+}
+
+.iya:hover{
+    background-color: white;
+    color: black;
+}
